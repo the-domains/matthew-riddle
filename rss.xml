@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Digital Learning in Higher Education | Blog | Matthew D. Riddle]]></title>
+        <description><![CDATA[Digital Learning in Higher Education | Blog | Matthew D. Riddle]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 11 Nov 2015 01:30:23 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[HEALS Project]]></title>
+            <description><![CDATA[<article><h1>HEALS Project</h1><p>Higher Education Active Learning Spaces</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/163d5d6c-d950-49f4-93ec-80f3ebeaf0e5.png"></article>]]></description>
+            <link>undefinedheals-project/index.html</link>
+            <guid isPermaLink="false">c551c5e8-5042-4c13-85be-09d869c2148d</guid>
+            <pubDate>Wed, 11 Nov 2015 01:29:04 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
