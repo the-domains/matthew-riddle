@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: Higher Education Active Learning Spaces
-datePublished: '2015-11-11T01:43:04.469Z'
-dateModified: '2015-11-11T01:30:27.684Z'
+datePublished: '2015-11-11T01:46:27.308Z'
+dateModified: '2015-11-11T01:46:02.254Z'
 title: HEALS Project
 authors: []
 publisher:
