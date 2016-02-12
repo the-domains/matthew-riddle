@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Digital Learning in Higher Education | Blog | Matthew D. Riddle]]></title>
+        <description><![CDATA[Digital Learning in Higher Education | Blog | Matthew D. Riddle]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 12 Feb 2016 10:00:44 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[HEALS Project]]></title>
+            <description><![CDATA[<article><h1>HEALS Project</h1><p>I recently started working on a project known as HEALS.  Higher Education Active Learning Spaces (HEALS) is a project focusing on the systematic evaluation of recent learning space designs in order to better understand the return on investment and to test the underlying design assumptions to help the universities in moving the field forward. The theoretical approach for this project utilises the Pedagogy, Space and Technology (PST) framework from the Next Generation Learning Spaces Project, and the 7 Principles for Learning Space Design developed by the Spaces for Knowledge Generation Project. Led by La Trobe and UKM, HEALS is one of a series of collaborative projects over two years as part of the IRU-MRUN Collaborative Research Programme. I look forward to posting more here.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/437d4857ee3924209b438eb1bebe00566b117d12.png"></article>]]></description>
+            <link>undefinedheals-project/index.html</link>
+            <guid isPermaLink="false">c551c5e8-5042-4c13-85be-09d869c2148d</guid>
+            <pubDate>Fri, 12 Feb 2016 10:00:30 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
